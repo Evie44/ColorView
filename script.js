@@ -213,7 +213,7 @@ function ChangeColRubb(){
 //listen for click on lmg
 document.getElementById('lmg').addEventListener('click', function() {
     //Open web page
-    window.open('https://github.com/BrAtUkA');
+    window.open('https://github.com/Evie44');
 });
 
 //invert lmg on hover
